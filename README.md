@@ -10,6 +10,10 @@ To run in live development mode, run `wails dev` in the project directory. In an
 directory and run `npm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this in your
 browser and connect to your application.
 
+## Generate Go bindings
+
+To generate the callable Go bindings for JavaScript, run `wails generate module`.
+
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
