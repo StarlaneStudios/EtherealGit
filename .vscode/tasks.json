@@ -30,6 +30,18 @@
                 "build"
             ],
             "problemMatcher": []
+        },
+        {
+            "label": "Develop: start server",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "command": "wails",
+            "args": [
+                "dev"
+            ],
+            "problemMatcher": []
         }
     ]
 }

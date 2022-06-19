@@ -1,4 +1,4 @@
-module changeme
+module github.com/StarlaneStudios/EtherealGit
 
 go 1.18
 
