@@ -1,8 +1,30 @@
-# README
+<p align="center">
+  <img src=".github/brand/icon.png" height="128">
+</p>
 
-## About
+<h1 align="center">
+  Ethereal Git
+</h1>
+<h3 align="center">
+	A modern and comfortable Git desktop client.
+</h3>
+<p align="center">
+  <a href="https://github.com/StarlaneStudios/EtherealGit/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/StarlaneStudios/EtherealGit"> 
+  </a>
+  <img src="https://img.shields.io/discord/414532188722298881">
+  <img src="https://img.shields.io/github/repo-size/StarlaneStudios/EtherealGit">
+  <img src="https://img.shields.io/github/contributors/StarlaneStudios/EtherealGit">
+</p>
 
-This is the official Wails React-TS template.
+<br>
+
+## 🚧 Disclaimer 🚧
+This project is currently in heavy development and is still lacking many features. Do not use in production!
+
+## Introduction
+
+Ethereal Git is a modern Git desktop client focused on productivity and ease of use.
 
 ## Live Development
 
