@@ -1,6 +1,6 @@
 {
-	"name": "WailsApp",
-	"outputfilename": "WailsApp",
+	"name": "Ethereal Git",
+	"outputfilename": "Ethereal Git",
 	"frontend:install": "yarn install",
 	"frontend:build": "yarn build",
 	"frontend:dev:watcher": "yarn dev",
